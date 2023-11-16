@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?&type=rounded&text=Ryu's%20Git&align="center"&animation=fadeIn&color=E2F5FA)
 <h1 align="center">Hi 👋, I'm Ryu</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">Just Do it</h3>
 
 - 📫 How to reach me **jeungwon28@gmail.com**
 
