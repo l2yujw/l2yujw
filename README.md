@@ -18,10 +18,8 @@
 <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/> 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <br/>
 
----- 
-
 ## Stats 
-[![l2yujw's GitHub stats](https://github-readme-stats.vercel.app/api?username=l2yujw&show_icons=true&&theme=dracula&count_private=true)](https://github.com/l2yujw/github-readme-stats) 
+[![l2yujw's GitHub stats](https://github-readme-stats.vercel.app/api?username=l2yujw&show_icons=true&&theme=tokyonight&count_private=true)](https://github.com/l2yujw/github-readme-stats) 
 
 [![Solved.ac Progile](http://mazassumnida.wtf/api/generate_badge?boj=ehjwys)](https://solved.ac/ehjwys) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp)
 
