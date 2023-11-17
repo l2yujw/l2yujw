@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=rounded&text=Ryu's%20Git&align="center"&animation=fadeIn&color=E2F5FA&height=300)
+![header](https://capsule-render.vercel.app/api?&type=rounded&text=Ryu's%20Git&align="center"&animation=fadeIn&color=E2F5FA&height=200)
 <h1 align="center">Hi 👋, I'm Ryu</h1>
 <h3 align="center">Just Do it</h3>
 
