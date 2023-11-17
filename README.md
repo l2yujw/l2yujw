@@ -18,9 +18,8 @@
 <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/> 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Progile](http://mazassumnida.wtf/api/generate_badge?boj=ehjwys)](https://solved.ac/ehjwys)
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=l2yujw&show_icons=true&locale=en" alt="l2yujw" /></p>
+[![Solved.ac Progile](http://mazassumnida.wtf/api/generate_badge?boj=ehjwys)](https://solved.ac/ehjwys)    <img align="center" src="https://github-readme-stats.vercel.app/api?username=l2yujw&show_icons=true&locale=en" alt="l2yujw" />
 
 </div>
