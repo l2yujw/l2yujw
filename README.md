@@ -1,3 +1,5 @@
+![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+
 ### Hi, I'm Ryu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
 
@@ -8,10 +10,12 @@
 </summary>
    <br>
   
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
-<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> 
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white"></br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
 </details>
 
@@ -21,22 +25,25 @@
 </summary>
    <br>
 
-<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
-<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/> 
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <br/>
+<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/>
+<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 
 
 </details>
 
 <details>
 <summary>
-  Tools
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="2%" />Tools
 </summary>
    <br>
   
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 
 </details>
 
