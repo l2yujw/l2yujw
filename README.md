@@ -47,7 +47,7 @@
 
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp&theme=tokyonight)
 
 </i>
 
