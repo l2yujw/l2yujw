@@ -46,6 +46,16 @@ Querydsl
 
 </details>
 
+## ☁️ SNS 
+about tech & study
+
+
+<br>
+
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Blogger&logoColor=white)](https://toy-garden.tistory.com/)
+
+
+<br><br>
 &nbsp;
 https://toy-garden.tistory.com/
 &nbsp;
