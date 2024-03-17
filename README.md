@@ -23,9 +23,7 @@ Querydsl
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> Techs i've used least one
-</summary>
-   <br>
-
+</summary><br>
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/> &nbsp;
 <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp;
@@ -47,6 +45,10 @@ Querydsl
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" /> &nbsp;
 
 </details>
+
+&nbsp;
+https://toy-garden.tistory.com/
+&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp&theme=tokyonight)
 
