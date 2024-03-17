@@ -56,9 +56,6 @@ about tech & study
 
 
 <br><br>
-&nbsp;
-https://toy-garden.tistory.com/
-&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp&theme=tokyonight)
 
