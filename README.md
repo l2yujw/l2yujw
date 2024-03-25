@@ -51,7 +51,7 @@ about tech & study
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Blogger&logoColor=white)](https://toy-garden.tistory.com/)
 
-
+----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp&theme=tokyonight)
 
 </i>
