@@ -1,5 +1,9 @@
-<a href="https://github.com/l2yujw/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/l2yujw"
+  width="600"
+  height="300"
+/>
 </a>
 <br>
 ## Hi, I'm Ryu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
