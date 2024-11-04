@@ -55,9 +55,4 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Blogger&logoColor=white)](https://toy-garden.tistory.com/)
 
 ----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp&theme=tokyonight)
-
-</i>
-
-## Stats 
-[![l2yujw's GitHub stats](https://github-readme-stats.vercel.app/api?username=l2yujw&show_icons=true&&theme=tokyonight&count_private=true)](https://github.com/l2yujw/github-readme-stats)  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehjwys)](https://solved.ac/ehjwys)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2yujw&layout=compact&hide=csharp&theme=tokyonight) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehjwys)](https://solved.ac/ehjwys)
