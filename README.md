@@ -1,13 +1,3 @@
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/673440973112302533/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
-<br>
-
 ## Hi, I'm Ryu 
 
 ### Open Source Contributions
