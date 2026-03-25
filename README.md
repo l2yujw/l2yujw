@@ -6,7 +6,7 @@
 - [spring-data-redis](https://github.com/spring-projects/spring-data-redis/pull/3317) - Optimize spin-wait retry loop in RedisMessageListenerContainer
 - [spring-boot](https://github.com/spring-projects/spring-boot/pull/49278) - Remove obsolete idle timeout configuration in Jetty tests and simplify test setup.
 
-## ☁️ SNS 
+## Blog
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Blogger&logoColor=white)](https://toy-garden.tistory.com/)
 
