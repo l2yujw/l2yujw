@@ -9,6 +9,3 @@
 ## Blog
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Blogger&logoColor=white)](https://toy-garden.tistory.com/)
-
-----
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehjwys)](https://solved.ac/ehjwys)
