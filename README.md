@@ -1,5 +1,3 @@
-## Hi, I'm Ryu 
-
 ### Open Source Contributions
 - [spring-data-jpa](https://github.com/spring-projects/spring-data-jpa/pull/4195) - Flatten nested AND/OR predicates in the JPQL query builder (with regression tests).
 - [spring-data-jpa](https://github.com/spring-projects/spring-data-jpa/pull/4193) - Fix typos in test Javadoc.
